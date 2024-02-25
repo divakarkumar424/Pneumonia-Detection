@@ -15,6 +15,10 @@ Chest X-ray images (anterior-posterior) were selected from retrospective cohorts
 
 For the analysis of chest x-ray images, all chest radiographs were initially screened for quality control by removing all low quality or unreadable scans. The diagnoses for the images were then graded by two expert physicians before being cleared for training the AI system. In order to account for any grading errors, the evaluation set was also checked by a third expert.
 
+URL : https://detectionpneumonia.streamlit.app/
+
+![image](https://github.com/divakarkumar424/Boston-House-Prices-Prediction/assets/32620288/2f964bff-ed08-4229-83ff-9a822f705d5e)
+
 ## Overview:
 Software And Tools Requirements
 
